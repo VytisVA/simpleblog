@@ -11,17 +11,18 @@ These instructions will help to follow the steps of the project.
 ### Prerequisites & Installing
 
 - Fork this repo, and clone to your local machine
-- cd ROR
-- ruby -v
+- cd simpleblog
+- ruby -v (built with Ruby version: 2.4.1)
 - ruby-install ruby
-- rails -v
+- rails -v (built with Rails version: 5.1.6)
 - sudo gem install rails
 - bundle install
+- rails s (go to local:3000)
 - 
 
 ## Running the tests
 
-- Check the tests by running test/newsTests.js.
+- Check the tests by running.
 
 ## Built With  
 
@@ -34,12 +35,13 @@ These instructions will help to follow the steps of the project.
 
 ## Steps Completed
 
-- 1 - Setting up project.
-- 2 - 
+- 1 - Setting up project, installing relevant gems, bundle install.
+- 2 - Working with MVC:
+    * Controller setup;
 
 ## ToDo 
 
-* Ruby version
+* 
 * System dependencies
 * Configuration
 * Database creation
