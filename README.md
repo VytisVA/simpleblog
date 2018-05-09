@@ -37,7 +37,8 @@ These instructions will help to follow the steps of the project.
 
 - 1 - Setting up project, installing relevant gems, bundle install.
 - 2 - Working with MVC:
-    * Controller setup;
+    * Controller setup, running rake routes (index, about, add post);
+    * 
 
 ## ToDo 
 
