@@ -26,8 +26,9 @@ These instructions will help to follow the steps of the project.
 
 ## Built With  
 
-* [Visual Studio Code](https://code.visualstudio.com/) and Ruby language.
+* [Visual Studio Code](https://code.visualstudio.com/) and Ruby language
 * [Ruby on Rails](https://rubyonrails.org/)
+* [Bootstrap](https://getbootstrap.com/)
 
 ## Authors
 
@@ -38,7 +39,8 @@ These instructions will help to follow the steps of the project.
 - 1 - Setting up project, installing relevant gems, bundle install.
 - 2 - Working with MVC:
     * Controller setup, running rake routes (index, about, add post);
-    * 
+    * Working with post controller (can see and add posts);
+- 3 - Bootsrap and CSS styling:     
 
 ## ToDo 
 
