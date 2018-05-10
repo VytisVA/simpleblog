@@ -40,7 +40,8 @@ These instructions will help to follow the steps of the project.
 - 2 - Working with MVC:
     * Controller setup, running rake routes (index, about, add post);
     * Working with post controller (can see and add posts);
-- 3 - Bootsrap and CSS styling:     
+- 3 - Bootsrap and CSS styling:
+    * Navbar init;
 
 ## ToDo 
 
